@@ -6,11 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning more about C++ Qt Python and machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on freelance.
+- 🌱 I’m currently learning more about C++ Qt Python and machine Learning.
 - 💬 Ask me about Software developer and others technologies.
-- 📫 How to reach me: [LinkedIn - @yacine-benaffane](https://www.linkedin.com/in/yacine-benaffane/)
+- 📫 How to reach me: [LinkedIn - @yacine-benaffane](https://www.linkedin.com/in/yacine-benaffane/).
 - 😄 Pronouns: he.
 - ⚡ Fun fact: I sleeped 3 hours in 3 days on hackathon.
