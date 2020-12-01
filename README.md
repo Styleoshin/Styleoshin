@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 [![GitHub Styleoshin](https://img.shields.io/github/followers/Styleoshin?label=follow&style=social)](https://github.com/Styleoshin)
 [![website](https://img.shields.io/badge/Portfolio-Styleoshin-2648ff?style=flat-square&logo=google-chrome)](https://styleoshin.github.io/portfolio/)
 
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Styleoshin&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
