@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software developer and others technologies.
 - 📫 How to reach me: [LinkedIn - @yacine-benaffane](https://www.linkedin.com/in/yacine-benaffane/).
 - 😄 Pronouns: he.
-- ⚡ Fun fact: I sleeped 3 hours in 3 days on hackathon.
+- ⚡ Fun fact: I slept 3 hours in 3 days on hackathon.
 
 [![Twitter: Yacino_ben31](https://img.shields.io/twitter/follow/Yacino_ben31?style=social)](https://twitter.com/Yacino_ben31)
 [![Linkedin: yacine-benaffane](https://img.shields.io/badge/-yacine_benaffane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yacine-benaffane)](https://www.linkedin.com/in/yacine-benaffane)
